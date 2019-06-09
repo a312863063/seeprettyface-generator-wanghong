@@ -2,7 +2,7 @@
 &emsp;&emsp;这是一个用StyleGAN训练出的网红脸生成器，生成效果如下所示。<br /><br /><br />
 
 # 生成示例
-<br/>
+
 ## 单张样本
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example1.png)<br/><br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example2.png)<br/><br/>
