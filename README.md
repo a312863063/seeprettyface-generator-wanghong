@@ -7,7 +7,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example2.png)<br/><br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example3.png)<br/><br/>
 
-## &emsp;&emsp;概览
+## &emsp;&emsp;概览（有筛选）
 ![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/64_examples.jpg)
 
 # 运行代码
