@@ -23,5 +23,5 @@
 &emsp;&emsp;1.在model文件夹中按照txt地址下载模型，放在该位置<br/>
 &emsp;&emsp;2.运行generate_wanghong.py<br/>
 <br /><br /><br />
-# 了解更多：前往[seeprettyface.com](http://www.seeprettyface.com)
+## 获取训练集&了解训练过程：[seeprettyface.com](http://www.seeprettyface.com/mydataset_page2.html)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)
