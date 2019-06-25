@@ -10,8 +10,8 @@
 
 ## &emsp;&emsp;高清版单张样本（512×512px SR）
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example_hd1.png)<br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example2_hd.png)<br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example3_hd.png)<br/><br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example_hd2.png)<br/><br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example_hd3.png)<br/><br/>
 
 ## 概览（有筛选）
 ![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/64_examples.jpg)
