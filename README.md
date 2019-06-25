@@ -26,7 +26,7 @@
 
 ## 运行步骤
 &emsp;&emsp;1.在model文件夹中按照txt地址下载2个模型，放在该位置<br/>
-&emsp;&emsp;2.在generate_wanghong.py中选择对应的模型，并运行之<br/>
+&emsp;&emsp;2.在generate_wanghong.py中选择对应的模型，并运行generate_wanghong.py<br/>
 <br /><br /><br />
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)
