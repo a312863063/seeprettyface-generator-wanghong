@@ -3,12 +3,12 @@
 
 # 生成示例
 
-## &emsp;&emsp;单张样本
+## &emsp;&emsp;256px单张样本（体验版）
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example1.png)<br/><br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example2.png)<br/><br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example3.png)<br/><br/>
 
-## &emsp;&emsp;高清版单张样本（512×512px SR）
+## &emsp;&emsp;单张样本
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example_hd1.png)<br/><br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example_hd2.png)<br/><br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example_hd3.png)<br/><br/>
