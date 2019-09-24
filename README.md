@@ -5,7 +5,7 @@
 
 # 生成示例
 
-## &emsp;&emsp;256px单张样本（体验版）
+## &emsp;&emsp;256px单张样本
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/256px_example1.png)<br/><br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/256px_example2.png)<br/><br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/256px_example3.png)<br/><br/>
