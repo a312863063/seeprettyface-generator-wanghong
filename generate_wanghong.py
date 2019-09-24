@@ -22,8 +22,8 @@ def main():
     tflib.init_tf()
 
     # Load pre-trained network.
-    model_path = 'model/generator_wanghong.pkl'  # generate 256*256 px
-    #model_path = 'model/generator_wanghong_hd.pkl'  # generate 512*512 px super-resolution
+    model_path = 'model/generator_wanghong_256px.pkl'  # generate 256*256 px
+    #model_path = 'model/generator_wanghong.pkl'  # generate 1024*1024px
 
     # Prepare result folder
     result_dir = 'result'
