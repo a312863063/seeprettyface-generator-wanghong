@@ -14,6 +14,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example1.png)<br/><br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example2.png)<br/><br/>
 
+查看更多的1024px生成样本可以前往[这里](https://pan.baidu.com/s/1Sn6j9g-8sddIvViGEawAWQ)（提取码：3iqt），是一个含有1万张生成样本的网红脸数据集。<br /><br /><br />
+
 # 网红脸属性编辑
 &emsp;&emsp;人脸属性编辑目前支持在笑容、角度和光照3个维度上对生成人物作出调整。
 ## 笑容调整
