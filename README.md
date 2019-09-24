@@ -1,17 +1,35 @@
-# 网红脸生成器
-&emsp;&emsp;这是一个用StyleGAN训练出的网红脸生成器，生成效果如下所示。<br /><br /><br />
+# 网红脸生成器-V2.0
+&emsp;&emsp;这是一个用StyleGAN训练出的网红脸生成器，生成效果如下所示。<br />
+&emsp;&emsp;V2.0改进内容：1024px上画质提升，生成图片更大更清晰<br /><br /><br />
 
 # 生成示例
 
 ## &emsp;&emsp;256px单张样本（体验版）
+&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/256px_example1.png)<br/><br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/256px_example2.png)<br/><br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/256px_example3.png)<br/><br/>
+
+## &emsp;&emsp;1024px单张样本
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example1.png)<br/><br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example2.png)<br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example3.png)<br/><br/>
 
-## &emsp;&emsp;单张样本
-&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example_hd1.png)<br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example_hd2.png)<br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example_hd3.png)<br/><br/>
+# 网红脸属性编辑
+&emsp;&emsp;人脸属性编辑目前支持在笑容、年龄、角度、性别和光照5个维度上对生成人物作出调整。
+## 笑容调整
+![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/edit_smile.jpg)
+<br/><br/>
+## 年龄调整
+![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/edit_age.jpg)
+<br/><br/>
+## 角度调整
+![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/edit_angle.jpg)
+<br/><br/>
+## 性别调整
+![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/edit_gender.jpg)
+<br/><br/>
+## 光照调整
+![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/edit_exposure.jpg)
+<br/><br/>
 
 ## 概览（有筛选）
 ![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/64_examples.jpg)
@@ -25,6 +43,7 @@
 
 ## 运行步骤
 &emsp;&emsp;1.在model文件夹中按照txt地址下载2个模型，放在该位置<br/>
+&emsp;&emsp;&emsp;&emsp;注明：1024px模型训练不易，对于开发者来说可能需要付费购买，前50名购买者免费赠送人脸属性编辑器。<br/>
 &emsp;&emsp;2.在generate_wanghong.py中选择对应的模型，并运行generate_wanghong.py<br/>
 <br /><br /><br />
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
