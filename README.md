@@ -40,7 +40,7 @@
 
 ## 运行步骤
 &emsp;&emsp;1.在model文件夹中按照txt地址下载2个模型，放在该位置<br/>
-&emsp;&emsp;&emsp;&emsp;注明：1024px模型训练不易，对于开发者来说可能需要付费购买，前50名购买者免费赠送人脸属性编辑器。<br/>
+&emsp;&emsp;&emsp;&emsp;注明：256px为免费体验；而1024px模型训练不易，对于开发者来说可能需要付费购买，前50名购买者免费赠送人脸属性编辑器。<br/>
 &emsp;&emsp;2.在generate_wanghong.py中选择对应的模型，并运行generate_wanghong.py<br/>
 <br /><br /><br />
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
