@@ -15,18 +15,12 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/example2.png)<br/><br/>
 
 # 网红脸属性编辑
-&emsp;&emsp;人脸属性编辑目前支持在笑容、年龄、角度、性别和光照5个维度上对生成人物作出调整。
+&emsp;&emsp;人脸属性编辑目前支持在笑容、角度和光照3个维度上对生成人物作出调整。
 ## 笑容调整
 ![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/edit_smile.jpg)
 <br/><br/>
-## 年龄调整
-![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/edit_age.jpg)
-<br/><br/>
 ## 角度调整
 ![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/edit_angle.jpg)
-<br/><br/>
-## 性别调整
-![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/edit_gender.jpg)
 <br/><br/>
 ## 光照调整
 ![Image text](https://github.com/a312863063/seeprettyface-generator-wanghong/blob/master/examples/edit_exposure.jpg)
