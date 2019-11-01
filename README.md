@@ -1,7 +1,7 @@
 # 网红脸生成器-V2.0
 <br />
 &emsp;&emsp;注明：这是我之前研一的时候做的一些有意思的人脸生成器，现在全部开源分享出来。它的主要作用是可生成制作各类型的人脸素材，供我们任意使用且无须担心人脸版权的问题。<br />
-&emsp;&emsp;在定制人脸上，开源的全系列生成器包括：<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸生成器</a>和<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸生成器</a>，同时<a href='https://github.com/a312863063/seeprettyface-face-editor'>人脸属性生成器</a>能够对所有这些生成器生成的人物进行调整和改变。如果模型真的对您有帮助的话，欢迎在底部给予小小的赞助蟹蟹~<br />
+&emsp;&emsp;在定制人脸上，开源的全系列生成器包括：<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸生成器</a>和<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸生成器</a>，同时<a href='https://github.com/a312863063/seeprettyface-face-editor'>人脸属性编辑器</a>能够对所有这些生成器生成的人物进行调整和改变。如果模型真的对您有帮助的话，欢迎在底部给予小小的赞助蟹蟹~<br />
 --------------------------------------------------------------------------------------------------------------------<br /><br />
 &emsp;&emsp;V2.0改进内容：1024px上画质提升，生成图片更大更清晰。<br />
 &emsp;&emsp;这是一个用StyleGAN训练出的网红脸生成器，生成效果如下所示。<br /><br /><br />
